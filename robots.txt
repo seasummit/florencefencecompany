@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://florencefencecompany.com/sitemap.xml
